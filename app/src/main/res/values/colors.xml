@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--login-->
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="colorPrimaryText">#050505</color>
+    <color name="lightgray">#ededed</color>
+    <color name="colorPrimarya">#f78294</color>
+    <color name="colorPrimaryDarka">#f9889b</color>
+    <color name="colorAccenta">#FF4081</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="whitea">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="textColor">#6e6e6e</color>
+
+    <color name="background_color">#a2c523</color>
+    <color name="bg_screen1">#f64c73</color>
+    <!--dashboard-->
+    <color name="colorAccent1">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+
+
+    <color name="primaryDark">#292b3d</color>
+    <color name="graylight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+
+
+</resources>
